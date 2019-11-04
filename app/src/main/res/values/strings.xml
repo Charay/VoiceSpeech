@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VoiceSpeech</string>
+    <string name="notAvailable">设置中文</string>
+    <string name="text_input">请输入要朗读的文本</string>
+</resources>
